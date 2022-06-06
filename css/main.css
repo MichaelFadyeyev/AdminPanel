@@ -192,7 +192,7 @@ li {
 }
 
 .burger__button:hover{
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 
 .burger__button > img{
@@ -204,7 +204,7 @@ li {
     margin: auto 0;
     width: 0.9rem;
     height: 0.8rem;
-    transform: translateY(-82%);
+    transform: translateY(-70%);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
